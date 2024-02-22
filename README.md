@@ -13,7 +13,9 @@
 
 <div>
   <img src="https://img.shields.io/badge/-Gmail-%23796759?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:anacecillia303@gmail.com"/>
-  <img src="https://img.shields.io/badge/LinkedIn-%23796759?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveiracecilia/)"/>
+    <a href="https://www.linkedin.com/in/oliveiracecilia/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23796759?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
 </div>
 
 
