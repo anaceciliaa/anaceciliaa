@@ -6,7 +6,7 @@
 ! 📌 Living in Ceará, Brazil
 - 🎓 Computer Science Student at UFC
 ! 💕 Passionate about films, literature, and cats
-# 📖 I'm currently focused on learning React, Typescript, TailwindCSS and Designer UI/UX
+# 📖 I'm currently focused on learning React, Typescript and Designer UI/UX
 ```
 
 ### How to reach me 
